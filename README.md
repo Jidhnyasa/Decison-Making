@@ -25,11 +25,11 @@ i. If a possible fugitive in sector (2,1) is positively recognized using his fac
    The probability that the fugitive recognized by clothes is 0.75.
    The most probable location(s) of the robot j is j11(1,1),j22(2,2),j31(3,1).
    
- ii.If robot i’s proximity indicator goes off when it is in location (2,2), what are the probabilities that the fugitive is       located in each of the 16 sectors? What then becomes the most likely location of a fugitive if he is recognized by face       only in (2,3) and by clothes only in (1,2)?
+ ii.If robot i’s proximity indicator goes off when it is in location (2,2), what are the probabilities that the fugitive is       located in each of the 16 sectors? What then becomes the most likely location of a fugitive if he is recognized by face       only in (2,3) and by clothes only in (1,2)?<br>
  -> The probabilities that the fugitive is located in each of the 16 sectors is 0.0625
     the most likely location of a fugitive if he is recognized by face only in (2,3) and by clothes only in (1,2) is f23(2,3).
     
- iii.If the proximity indicator goes off when robot i is in sector (2,3) and the fugitive is spotted both by face and clothes      in (2,3) as well,what is the most likely location(s) of the robot j?
+ iii.If the proximity indicator goes off when robot i is in sector (2,3) and the fugitive is spotted both by face and clothes      in (2,3) as well,what is the most likely location(s) of the robot j?<br>
  ->  The most likely location(s) of the robot j is j13(1,3),j22(2,2),j24(2,4),j33(3,3)
  
  
