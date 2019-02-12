@@ -1,5 +1,6 @@
 # Decison-Making Assignment 1
-## Part 2 b) A Bayesian Network in Netica
+## Part II 
+### b) A Bayesian Network in Netica
 ---
 ### Random Variables as follows:
 1) ProximitySignal(signalyes,signalno)<br>
